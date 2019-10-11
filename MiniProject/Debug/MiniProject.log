@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(122): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(123): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(124): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(125): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(141): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(142): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(206): warning C4101: 'new_node': unreferenced local variable
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(264): warning C4101: 'par_x': unreferenced local variable
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(264): warning C4101: 'par_y': unreferenced local variable
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(265): warning C4101: 'new_node': unreferenced local variable
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(410): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(518): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(528): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(544): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\npb19\source\repos\miniproject\miniproject\source.cpp(333): warning C4715: 'binary_search_tree::remove': not all control paths return a value
+  MiniProject.vcxproj -> C:\Users\npb19\source\repos\MiniProject\Debug\MiniProject.exe
